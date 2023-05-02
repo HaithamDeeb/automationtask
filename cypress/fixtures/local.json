@@ -1,0 +1,44 @@
+{
+  "Countries":{
+    "Saudi Arabia": {
+      "ar": "السعودية",
+      "en": "KSA"
+    },
+    "Kuwait": {
+      "ar": "الكويت",
+      "en": "Kuwait"
+    },
+    "Bahrain": {
+      "ar": "البحرين",
+      "en": "Bahrain"
+    }
+  },
+  "Subscription_Package_Type":{
+    "Lite":{
+      "ar":"لايت",
+      "en":"Lite"
+    },
+    "Classic":{
+      "ar":"الأساسية",
+      "en":"Classic"
+    },
+    "Premium":{
+      "ar":"بريميوم",
+      "en":"Premium"
+    }
+  },
+  "Subscription_Package_Currency":{
+    "Saudi Arabia":{
+      "ar": "ريال سعودي",
+      "en": "SAR"
+    },
+    "Kuwait":{
+      "ar": "دينار كويتي",
+      "en": "KWD"
+    },
+    "Bahrain":{
+      "ar": "دينار بحريني",
+      "en": "BHD"
+    }
+  }
+}
