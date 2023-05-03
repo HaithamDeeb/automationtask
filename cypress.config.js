@@ -56,6 +56,12 @@ module.exports = defineConfig({
     baseUrl: 'https://subscribe.stctv.com/',
     specPattern: '**/*.feature',
     setupNodeEvents,
+    blockHosts: [
+      '*.googletagmanager.com',
+      '*.stctv.zendesk.com',
+      '*.kameleoon.io',
+      '*.kochava.com',
+    ],
   
   },
 });
